@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jairo</h1>
 
 <div align="center">
-<img src="https://i.ibb.co/GP3mKdf/user.jpg" width="130" style="border-radius: 50%">
+<img src="https://i.ibb.co/GP3mKdf/user.jpg" width="130" style="border-radius: 50px">
 </div>
 
 <h3 align="center">Apasionado al frontend developer y soy de Perú</h3>
