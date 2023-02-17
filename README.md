@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Jairo</h1>
 
-<img src="https://i.ibb.co/GP3mKdf/user.jpg">
+<img src="https://i.ibb.co/GP3mKdf/user.jpg" align="center" width="50">
 
 <h3 align="center">Apasionado al frontend developer y soy de Perú</h3>
 
