@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Jairo</h1>
+[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 <h3 align="center">Apasionado al frontend developer y soy de Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jair000&label=Profile%20views&color=cb7410&style=flat" alt="jair000" /> </p>
