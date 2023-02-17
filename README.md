@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jairo</h1>
-<img src="https://ibb.co/ZT19nfR">
+<img src="[https://ibb.co/ZT19nfR](https://ibb.co/ZT19nfR)">
 <h3 align="center">Apasionado al frontend developer y soy de Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jair000&label=Profile%20views&color=cb7410&style=flat" alt="jair000" /> </p>
