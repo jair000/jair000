@@ -4,11 +4,13 @@
 <img src="https://i.ibb.co/GP3mKdf/user.jpg" width="130" style="border-radius: 50px">
 </div>
 
-<h3 align="center">Apasionado al frontend developer y soy de Perú</h3>
+<h3 align="center">Apasionado al frontend developer, soy de Perú ⛳</h3>
+
+<h4 align="center">Estudiante en Soy Henry - Desarrollo Full Stack <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAClCAMAAADoDIG4AAAAflBMVEX//wAAAADLywC1tQDPzwBzcwDo6ADq6gBycgD7+wBiYgBNTQCysgAoKABYWADJyQClpQCamwD09QBRUgDw8ACIiQDDxAAVFQDW1wC6ugAeHgCCggCUlAAlJQCrqwDi4gAZGQBCQgA7PAA0NQBpaQCPjwA2NwAODgAsLAB6egCNwbBjAAACJ0lEQVR4nO3b61KCQBiAYVEID4iCqJAmmofy/m8wZ6w4tLJ80YDG+/wMcPCdZUGgTgcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAxWYaCnVohUq3QbWx/70BfVeQptUKPZDnKUUayItoDk2R5jDIxkomRTIxkYiQT44wpxigTI5kYycRIJsb0L8YoEyOZGMnESCZWPdmg7l1uWtUzZnc4curf60ZVHWXO2DCidg21ygem/2yMLXc0XK17Qe1734jKyeyX5M9uWPv+N+B3ySbJ8k1mQVz7F6ifdPrf7iwv6vrJ8mlm8bT2L1C/0qPsebaaLuKf07xHsnwyx3g9e73bB1z2BQT75nr/hzaZ7vIhnazfinOmNpnW7nOjF0+02eNSJNvNff12CfNycbGeTkTbPLRssr0lHyqHdsxgiSSZe4x+M1IuH7D58726a9dkM0+Qyzzu03cy7FbM+SkH4zRflD+wgkX/8ju83ffLTLv8TYh44S6vB3Grk5UWOrO373mPZFqhN8qcWUlWLFzP8pduJCsS7vK9SKbhqH5RkawID+XESFZGkL5UI5mWH1rvPC0XiL2TwQsG5QW94bUIycoJ58uvIrySV4K/cVNFGGVaT6ttpgjJNMxhvgjJigyi0c8iJCtyVhUhWRHl/5ZzxizCu7JiJBMjmdhBl0x5i3Fy8/NaIDYV0jd/gq5ihbY97QUAAAAAAAAAAAAAAAAAAAAAAAAAAAAANOYDz0YWNOk3saIAAAAASUVORK5CYII=" width="60"> </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jair000&label=Profile%20views&color=cb7410&style=flat" alt="jair000" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Python 🐍**
+- 🌱 Actualmente estoy aprendiendo **JavaScript 🫡**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jair000](https://github.com/jair000)
 
