@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Jairo</h1>
 
 <div align="center">
-<img src="https://ibb.co/dXmRQn3" width="130" style="border-radius: 50px">
+<img src="https://i.ibb.co/9BZ7qRf/Whats-App-Image-2026-10-04-at-7-03-19-AM.jpg" width="130" style="border-radius: 50px">
 </div>
 
 <h3 align="center">Apasionado por el desarrollo front-end, Soy de Lima, Perú ⛳</h3>
