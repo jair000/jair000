@@ -1,41 +1,37 @@
-<h1 align="center">Hola 👋, Mi nombre es Jairo</h1>
+<h1 align="center">Hola 👋, soy Jairo Perez</h1>
 
 <div align="center">
 <img src="https://i.ibb.co/9BZ7qRf/Whats-App-Image-2026-10-04-at-7-03-19-AM.jpg" width="130" style="border-radius: 50px">
 </div>
 
-<h3 align="center">Apasionado por el desarrollo front-end, Soy de Lima, Perú ⛳</h3>
+<h3 align="center">Desarrollador Web Junior · React · Next.js · TypeScript · JavaScript · C#</h3>
+<p align="center">Lima, Perú 🇵🇪</p>
 
-<h4 align="center">Estudiante en Certus - Diseño y Desarrollo de Software <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAClCAMAAADoDIG4AAAAflBMVEX//wAAAADLywC1tQDPzwBzcwDo6ADq6gBycgD7+wBiYgBNTQCysgAoKABYWADJyQClpQCamwD09QBRUgDw8ACIiQDDxAAVFQDW1wC6ugAeHgCCggCUlAAlJQCrqwDi4gAZGQBCQgA7PAA0NQBpaQCPjwA2NwAODgAsLAB6egCNwbBjAAACJ0lEQVR4nO3b61KCQBiAYVEID4iCqJAmmofy/m8wZ6w4tLJ80YDG+/wMcPCdZUGgTgcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAxWYaCnVohUq3QbWx/70BfVeQptUKPZDnKUUayItoDk2R5jDIxkomRTIxkYiQT44wpxigTI5kYycRIJsb0L8YoEyOZGMnESCZWPdmg7l1uWtUzZnc4curf60ZVHWXO2DCidg21ygem/2yMLXc0XK17Qe1734jKyeyX5M9uWPv+N+B3ySbJ8k1mQVz7F6ifdPrf7iwv6vrJ8mlm8bT2L1C/0qPsebaaLuKf07xHsnwyx3g9e73bB1z2BQT75nr/hzaZ7vIhnazfinOmNpnW7nOjF0+02eNSJNvNff12CfNycbGeTkTbPLRssr0lHyqHdsxgiSSZe4x+M1IuH7D58726a9dkM0+Qyzzu03cy7FbM+SkH4zRflD+wgkX/8ju83ffLTLv8TYh44S6vB3Grk5UWOrO373mPZFqhN8qcWUlWLFzP8pduJCsS7vK9SKbhqH5RkawID+XESFZGkL5UI5mWH1rvPC0XiL2TwQsG5QW94bUIycoJ58uvIrySV4K/cVNFGGVaT6ttpgjJNMxhvgjJigyi0c8iJCtyVhUhWRHl/5ZzxizCu7JiJBMjmdhBl0x5i3Fy8/NaIDYV0jd/gq5ihbY97QUAAAAAAAAAAAAAAAAAAAAAAAAAAAAANOYDz0YWNOk3saIAAAAASUVORK5CYII=" width="60"> </h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jair000&label=Profile%20views&color=cb7410&style=flat" alt="jair000" /> </p>
-
-- 🌱 Actualmente estoy aprendiendo **Desarrollo FrontEnd**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jair000](https://github.com/jair000)
-
-- 💬 Pregúntame sobre **JavaScript and Games 🎲**
-
-- 📫 Cómo contactarme **jairoo.andrea1204@gmail.com**
-
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jairope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairope" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://jair000.github.io/next-portafolio/">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/jairope">LinkedIn</a> ·
+  <a href="https://jair000.github.io/next-portafolio/CV_Jairo_Perez.pdf">CV</a> ·
+  <a href="mailto:jairoo.andrea1204@gmail.com">jairoo.andrea1204@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-   </p>
+## Sobre mí
+
+Desarrollo aplicaciones web con **React** y **Next.js**, y complemento mi perfil con **C# / ASP.NET Core** en sistemas empresariales. Estudio Desarrollo de Software en Certus.
+
+## 💼 Experiencia
+
+**Practicante de Desarrollo de Software · Grupo Sima** _(oct. 2026 – actualidad)_
+- Completé funcionalidades pendientes del ERP de Cima Inmobiliaria: ventas, cuotas, clientes, inmuebles, propietarios y cuentas bancarias.
+- Corregí y amplié la facturación electrónica con SUNAT (boletas y facturas, con PDF, XML y CDR).
+- `C#` `ASP.NET Core MVC` `Entity Framework` `React (Vite)` `IIS`
+
+**Practicante de Desarrollo de Software · CuscoCode / CodePerú** _(jul. – sept. 2026)_
+- Web corporativa de [Grupo Copacabana](https://grupocopacabana.com.pe/), publicada en producción. Lighthouse: rendimiento 66 → 94, accesibilidad 87 → 96 y SEO 91 → 100.
+- Componentes y módulos para una plataforma web de retail.
+- `Astro` `Strapi` `Tailwind CSS` `React` `Next.js` `Supabase`
+
+## 🛠️ Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,astro,sass,cs,dotnet,nodejs,express,postgres,supabase,mysql,mongodb,git,github,figma" alt="Tecnologías" />
+</p>
