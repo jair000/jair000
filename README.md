@@ -8,9 +8,9 @@
 <p align="center">Lima, Perú 🇵🇪</p>
 
 <p align="center">
-  <a href="https://jair000.github.io/next-portafolio/">Portafolio</a> ·
+  <a href="https://jairo-perez.vercel.app/">Portafolio</a> ·
   <a href="https://www.linkedin.com/in/jairope">LinkedIn</a> ·
-  <a href="https://jair000.github.io/next-portafolio/CV_Jairo_Perez.pdf">CV</a> ·
+  <a href="https://jairo-perez.vercel.app/CV_Jairo_Perez.pdf">CV</a> ·
   <a href="mailto:jairoo.andrea1204@gmail.com">jairoo.andrea1204@gmail.com</a>
 </p>
 
