@@ -21,7 +21,7 @@ Desarrollo aplicaciones web con **React** y **Next.js**, y complemento mi perfil
 ## 💼 Experiencia
 
 **Practicante de Desarrollo de Software · Grupo Sima** _(oct. 2026 – actualidad)_
-- Completé funcionalidades pendientes del ERP de Cima Inmobiliaria: ventas, cuotas, clientes, inmuebles, propietarios y cuentas bancarias.
+- Completé funcionalidades pendientes del ERP de Sima Inmobiliaria: ventas, cuotas, clientes, inmuebles, propietarios y cuentas bancarias.
 - Corregí y amplié la facturación electrónica con SUNAT (boletas y facturas, con PDF, XML y CDR).
 - `C#` `ASP.NET Core MVC` `Entity Framework` `React (Vite)` `IIS`
 
